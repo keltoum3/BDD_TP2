@@ -6693,11 +6693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
+      "projectUniqueName": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
       "projectName": "SpecFlowAPI",
-      "projectPath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
+      "projectPath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
       "packagesPath": "/home/keltoum/.nuget/packages/",
-      "outputPath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/obj/",
+      "outputPath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/keltoum/.nuget/NuGet/NuGet.Config"
@@ -6712,8 +6712,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj": {
-              "projectPath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj"
+            "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj": {
+              "projectPath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/kyaEIzuyi+7ToICtC3kjRqbyz7WMW4PPtzyRVJ/o+gJuMXrhlTnL16/c3U/x+b0f18xu5tWlb2ZpMpdsNx0w==",
+  "dgSpecHash": "kXKfwJXQIXLEPC+xZWT1w0vJuYmsJmbwPyn+EBwrpSxsQ3EWp2ZAEOE6in/k+KQWROjz9RHXvAPzTa3kTGMN5A==",
   "success": true,
-  "projectFilePath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
+  "projectFilePath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
   "expectedPackageFiles": [
     "/home/keltoum/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/keltoum/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",

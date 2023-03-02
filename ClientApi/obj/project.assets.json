@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
+      "projectUniqueName": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
       "projectName": "ClientApi",
-      "projectPath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
+      "projectPath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
       "packagesPath": "/home/keltoum/.nuget/packages/",
-      "outputPath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/obj/",
+      "outputPath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/keltoum/.nuget/NuGet/NuGet.Config"

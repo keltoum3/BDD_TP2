@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DGUZ2Kew4SkXcQo753JijCPuVoQUx1cS+mA756IyX3KA2bWcZP+q6yKXlA6Ja/4XGTsFNAJAp1A2K51/Wf+AFw==",
+  "dgSpecHash": "bjOcauBEOvy6yR/WkUjeLcmjoE5zrXWzPbMJeKu3602sws0z+qEpr0QWhEoSV0pjtTajq2rvkzPQJqzyrl0fyA==",
   "success": true,
-  "projectFilePath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
+  "projectFilePath": "/home/keltoum/RiderProjects/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/SpecFlowAPI/SpecFlowAPI.csproj",
   "expectedPackageFiles": [
     "/home/keltoum/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/home/keltoum/.nuget/packages/cucumber.messages/6.0.1/cucumber.messages.6.0.1.nupkg.sha512",
