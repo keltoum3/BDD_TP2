@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/kyaEIzuyi+7ToICtC3kjRqbyz7WMW4PPtzyRVJ/o+gJuMXrhlTnL16/c3U/x+b0f18xu5tWlb2ZpMpdsNx0w==",
+  "success": true,
+  "projectFilePath": "/home/keltoum/Downloads/TP2_Penot_Oum_Koulthoum/TP2_Penot_Oum_Koulthoum/ClientApi/ClientApi.csproj",
+  "expectedPackageFiles": [
+    "/home/keltoum/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/keltoum/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/keltoum/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/home/keltoum/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/keltoum/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
